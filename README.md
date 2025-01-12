@@ -2,15 +2,15 @@
 
 This repository showcases a **Programming and Data Structures (PDS) Mini-Project** completed as part of the CS-6083 course at NYU Tandon School of Engineering. It focuses on enhancing database design and optimizing query and write performance using real-world datasets. The project incorporates **Entity-Relationship (ER) modeling**, **schema normalization**, and **SQL performance tuning**.  
 
-Tech Stack
-Database Systems: MySQL and PostgreSQL
-Programming Language: SQL
-Tools:
-Database Management: MySQL Workbench, pgAdmin
-Data Import: CSV Import Wizard for MySQL, Import/Export tool for PostgreSQL
-Query Analysis: EXPLAIN ANALYZE for performance optimization
-Dataset: Brazilian E-commerce Public Dataset (Olist) from Kaggle
-Visualization: Draw.io for ER diagram creation
+## Tech Stack
+1. Database Systems: MySQL and PostgreSQL
+2.Programming Language: SQL
+3.Tools:
+4.Database Management: MySQL Workbench, pgAdmin
+5.Data Import: CSV Import Wizard for MySQL, Import/Export tool for PostgreSQL
+6.Query Analysis: EXPLAIN ANALYZE for performance optimization
+7.Dataset: Brazilian E-commerce Public Dataset (Olist) from Kaggle
+8.Visualization: Draw.io for ER diagram creation
 
 
 ## Overview  
