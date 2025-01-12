@@ -4,13 +4,20 @@ This repository showcases a **Programming and Data Structures (PDS) Mini-Project
 
 ## Tech Stack
 1. Database Systems: MySQL and PostgreSQL
+   
 2.Programming Language: SQL
+
 3.Tools:
-4.Database Management: MySQL Workbench, pgAdmin
-5.Data Import: CSV Import Wizard for MySQL, Import/Export tool for PostgreSQL
-6.Query Analysis: EXPLAIN ANALYZE for performance optimization
-7.Dataset: Brazilian E-commerce Public Dataset (Olist) from Kaggle
-8.Visualization: Draw.io for ER diagram creation
+
+  Database Management: MySQL Workbench, pgAdmin
+
+  Data Import: CSV Import Wizard for MySQL, Import/Export tool for PostgreSQL
+
+  Query Analysis: EXPLAIN ANALYZE for performance optimization
+
+  Dataset: Brazilian E-commerce Public Dataset (Olist) from Kaggle
+
+4.Visualization: Draw.io for ER diagram creation
 
 
 ## Overview  
