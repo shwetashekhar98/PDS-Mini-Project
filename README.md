@@ -13,7 +13,7 @@ This repository showcases a **Programming and Data Structures (PDS) Mini-Project
     Query Analysis: EXPLAIN ANALYZE for performance optimization
   
     Dataset: Brazilian E-commerce Public Dataset (Olist) from Kaggle
-4.Visualization: Draw.io for ER diagram creation
+4. Visualization: Draw.io for ER diagram creation
 
 
 ## Overview  
