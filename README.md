@@ -30,19 +30,23 @@ The repository contains problem statements, ER diagrams, SQL solutions, and a de
 ## Repository Structure  
 
 ### 1. **Entity-Relationship Diagram**  
+Refer to the Pds_Mini_ERDiagram.drawio.png file for:
 - An ER diagram visualizes the database design for the "Welcome Home" application, showing entity relationships, attributes, and constraints.  
 - Key updates include:  
   - Addition of a **Branches** entity to handle multi-location operations.  
   - Conversion of **Locations** to a weak entity set with clear discriminators and identifying relationships.  
-  - Relationships like **Manages** and **LocatedAt** to track branch managers and inventory placement.  
+  - Relationships like **Manages** and **LocatedAt** to track branch managers and inventory placement.
+  
 
 ### 2. **SQL Scripts**  
-- **Option 2 (Query Optimization)**:  
+- **Option 2 (Query Optimization)**:
+- Refer to the option2_mini.sql and option2_mini_1 file for:
   - Baseline query: Analyzes customer order history, highlighting inefficiencies like table scans and hash joins.  
   - Optimized query: Introduces composite and single-column indexes (e.g., `customer_id`, `product_id`, `order_purchase_timestamp`) to reduce execution time and rows processed.  
   - Performance improvement: Reduced execution time from **161ms** to **17.2ms** and processed rows from **3.42e+15** to just **25.5 rows**.  
 
-- **Option 3 (Write Performance)**:  
+- **Option 3 (Write Performance)**:
+- Refer to the option3_mini.sql file for: 
   - Comparison of bulk insert operations with and without indexes on `olist_order_items_dataset`.  
   - Observations:  
     - **With indexes**: Slower writes due to index maintenance but improved read performance.  
